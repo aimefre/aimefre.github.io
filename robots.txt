@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bodjaor.github.io/sitemap/sitemap.txt
